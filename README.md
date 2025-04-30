@@ -1,6 +1,8 @@
 # qa-portfolio
 QA : Fehler, Checklisten, Testfälle
-| Fehlerberichte (Bug Reports) | ID    | Projektname | Fehlbeschreibung                                                                 | Priorität | Link         |
+
+ 1 . Fehlerberichte (Bug Reports) 
+|  ID   |  | Projektname | Fehlbeschreibung                                                                 | Priorität | Link         |
 |------------------------------|-------|-------------|----------------------------------------------------------------------------------|-----------|--------------|
 | #001                         | Reddit.com | Die Schaltfläche „Akzeptieren“ führt zu keiner sichtbaren Reaktion | High      | [REDDIT#001](https://example.com) |
 | #002                         | Reddit.com | Der Gruppenavatar wird auf der Hauptseite im Abschnitt „Zuletzt verwendet“ nicht angezeigt. | Medium    | [REDDIT#002](https://example.com) |
