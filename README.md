@@ -5,13 +5,13 @@ QA : Fehler, Checklisten, Testfälle
 |  ID   | Projektname  | Fehlbeschreibung  |          Priorität                                                      | Link    |     |
 |------------------------------|-------|-------------|----------------------------------------------------------------------------------|-----------|--------------|
 | #001                         | Reddit.com | Die Schaltfläche „Akzeptieren“ führt zu keiner sichtbaren Reaktion | High      | [REDDIT#001](https://aseevanina.atlassian.net/jira/software/projects/RED/boards/4/backlog?selectedIssue=RED-1&atlOrigin=eyJpIjoiNmYyMWE5YmIzNDg0NDJiOGJiNTRiNDgwNjI5ZjQwZGIiLCJwIjoiaiJ9) |
-| #002                         | Reddit.com | Der Gruppenavatar wird auf der Hauptseite im Abschnitt „Zuletzt verwendet“ nicht angezeigt. | Medium    | [REDDIT#002](https://example.com) |
-| #003                         | Reddit.com | Die gelesene Nachricht ist immer noch als ungelesen markiert. | Low       | [REDDIT#003](https://example.com) |
-| #004                         | Reddit.com | Es gibt kein separates Feld für das Passwort, das Feld zur Erstellung des Passworts ist mit dem E-Mail-Eingabefeld verknüpft | High      | [REDDIT#004](https://example.com) |
-| #005                         | brigitte.de | Der Sicherheitsschlüssel des Formulares ist abgelaufen. | High      | [BRIGITTE#005](https://example.com) |
-| #006                         | brigitte.de | Fehlerhafte Validierung für E-Mail-Adressen mit der Domäne gmail.com | High      | [BRIGITTE#006](https://example.com) |
-| #007                         | brigitte.de | Fehlerhafte Validierung für E-Mail-Adressen mit der Domäne mail.ru | High      | [BRIGITTE#007](https://example.com) |
-| #008                         | brigitte.de | Falsches Feedback zur E-Mail-Validierung | Low       | [BRIGITTE#008](https://example.com) |
+| #002                         | Reddit.com | Der Gruppenavatar wird auf der Hauptseite im Abschnitt „Zuletzt verwendet“ nicht angezeigt. | Medium    | [REDDIT#002](https://aseevanina.atlassian.net/jira/software/projects/RED/boards/4/backlog?selectedIssue=RED-2&atlOrigin=eyJpIjoiNTc1ZjM0ZTgxODMxNGY0NDg5MzAyNzM5ZDEyNTFhY2IiLCJwIjoiaiJ9) |
+| #003                         | Reddit.com | Die gelesene Nachricht ist immer noch als ungelesen markiert. | Low       | [REDDIT#003](https://aseevanina.atlassian.net/jira/software/projects/RED/boards/4/backlog?selectedIssue=RED-3&atlOrigin=eyJpIjoiOGZiOTgzZjQ1MGFjNGI2MWE2ZjIwZTcyOWU3YjNjMTEiLCJwIjoiaiJ9) |
+| #004                         | Reddit.com | Es gibt kein separates Feld für das Passwort, das Feld zur Erstellung des Passworts ist mit dem E-Mail-Eingabefeld verknüpft | High      | [REDDIT#004](https://aseevanina.atlassian.net/jira/software/projects/RED/boards/4/backlog?selectedIssue=RED-4&atlOrigin=eyJpIjoiYjc5YjE2OTdiMTYwNGI4MGI2YTExY2NlYTY2OTU3NTEiLCJwIjoiaiJ9) |
+| #005                         | brigitte.de | Der Sicherheitsschlüssel des Formulares ist abgelaufen. | High      | [BRIGITTE#005](https://aseevanina.atlassian.net/browse/BF-3?atlOrigin=eyJpIjoiMzMwMDVjNDhmNGRlNDFjZTlmZmE0M2IzMjVkMzdiY2UiLCJwIjoiaiJ9) |
+| #006                         | brigitte.de | Fehlerhafte Validierung für E-Mail-Adressen mit der Domäne gmail.com | High      | [BRIGITTE#006](https://aseevanina.atlassian.net/browse/BF-4?atlOrigin=eyJpIjoiYThkMjNkZmZiYjQ2NDZhZmJiYTYyZWQzZjUxY2VmYTIiLCJwIjoiaiJ9) |
+| #007                         | brigitte.de | Fehlerhafte Validierung für E-Mail-Adressen mit der Domäne mail.ru | High      | [BRIGITTE#007](https://aseevanina.atlassian.net/browse/BF-2?atlOrigin=eyJpIjoiOGNiNzgxMmEzNzQ2NDc5N2EwZDMxN2ZlMGQ1MTBmZTciLCJwIjoiaiJ9) |
+| #008                         | brigitte.de | Falsches Feedback zur E-Mail-Validierung | Low       | [BRIGITTE#008](https://aseevanina.atlassian.net/browse/BF-5?atlOrigin=eyJpIjoiNjY4NmJiMmFlYWYyNGQyNjg3Y2YwNjM4NWE2ODM1NGIiLCJwIjoiaiJ9) |
 
 ## Fehlerberichte: Login und Registrierung
 
