@@ -4,7 +4,7 @@ QA : Fehler, Checklisten, Testfälle
  1 . Fehlerberichte (Bug Reports) 
 |  ID   | Projektname  | Fehlbeschreibung  |          Priorität                                                      | Link    |     |
 |------------------------------|-------|-------------|----------------------------------------------------------------------------------|-----------|--------------|
-| #001                         | Reddit.com | Die Schaltfläche „Akzeptieren“ führt zu keiner sichtbaren Reaktion | High      | [REDDIT#001](https://example.com) |
+| #001                         | Reddit.com | Die Schaltfläche „Akzeptieren“ führt zu keiner sichtbaren Reaktion | High      | [REDDIT#001](https://aseevanina.atlassian.net/jira/software/projects/RED/boards/4/backlog?selectedIssue=RED-1&atlOrigin=eyJpIjoiNmYyMWE5YmIzNDg0NDJiOGJiNTRiNDgwNjI5ZjQwZGIiLCJwIjoiaiJ9) |
 | #002                         | Reddit.com | Der Gruppenavatar wird auf der Hauptseite im Abschnitt „Zuletzt verwendet“ nicht angezeigt. | Medium    | [REDDIT#002](https://example.com) |
 | #003                         | Reddit.com | Die gelesene Nachricht ist immer noch als ungelesen markiert. | Low       | [REDDIT#003](https://example.com) |
 | #004                         | Reddit.com | Es gibt kein separates Feld für das Passwort, das Feld zur Erstellung des Passworts ist mit dem E-Mail-Eingabefeld verknüpft | High      | [REDDIT#004](https://example.com) |
