@@ -86,7 +86,7 @@
 
 | **Eingabefeld**             | **Wert**        | **Aktion**               | **Ergebnis**              |
 |-----------------------------|-----------------|--------------------------|---------------------------|
-| Kaufpreis in Euro           | 14.999 €        | Rabatt berechnen          | 750 €                    |
+| Kaufpreis in Euro           | 14.999 €        | Rabatt berechnen         | 750 €                     |
 | Rabatt in Euro              | 750 €           | Fehlerbericht: Rabatt falsch berechnet | Fehler: Rabatt sollte 0 € sein |
 
 **Entwerfen Sie daher einen aussagenkräftigen Fehlerbericht mit notwendigen Informationen zur Meldung der oben beschriebenen Fehlerwirkung**
@@ -104,10 +104,10 @@
 | Erstellt von     | Nina Aseeva                                            |
 | Erstellt am      | 05.03.2025, 12:15 Uhr                                  |
 | Priorität        | Hoch                                                   |
-|Beschreibung:     |     **GIVEN**: Benutzer gibt den Preis **14.999 €** ein |
-| | **WHEN**: Der Button „Rabatt berechnen“ wird geklickt                      |
-| |**EXPECTED RESULT**: Kein Rabatt (0 €)                                            |
-| |**ACTUAL RESULT**: Ein Rabatt von **750 €** wird angezeigt                        |
+|Beschreibung:     |     **GIVEN**: Benutzer gibt den Preis **14.999 €** ein|
+| | **WHEN**: Der Button „Rabatt berechnen“ wird geklickt                   |
+| |**EXPECTED RESULT**: Kein Rabatt (0 €)                                   |
+| |**ACTUAL RESULT**: Ein Rabatt von **750 €** wird angezeigt               |
 
 ---
 
